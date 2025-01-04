@@ -1,2 +1,2 @@
-# sound
+# drum kit
 sounds
